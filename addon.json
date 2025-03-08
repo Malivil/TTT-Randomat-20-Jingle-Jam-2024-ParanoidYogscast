@@ -1,0 +1,19 @@
+{
+  "title": "TTT Randomat 2.0 Jingle Jam 2024 - Paranoid Yogscast Event",
+  "type": "ServerContent",
+  "ignore": [
+    ".git*",
+    ".vscode*",
+    "*.md",
+    "*.iml",
+    ".idea*",
+    ".luacheckrc",
+    "*.psd",
+    "*.rockspec",
+    "*.vcproj",
+    "*.svn*",
+    "LICENSE",
+    "*.sw.vtx",
+    "*.xbox.vtx"
+  ]
+}
