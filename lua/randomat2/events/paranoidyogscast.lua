@@ -6,9 +6,9 @@ EVENT.id = "paranoidyogscast"
 EVENT.StartSecret = true
 EVENT.Categories = {"largeimpact"}
 
-CreateConVar("randomat_paranoidyogscast_timer_min", 15, FCVAR_ARCHIVE, "The minimum time before the sound should play", 1, 120)
-CreateConVar("randomat_paranoidyogscast_timer_max", 30, FCVAR_ARCHIVE, "The maximum time before the sound should play", 1, 120)
-CreateConVar("randomat_paranoidyogscast_volume", 125, FCVAR_ARCHIVE, "The volume the sound should play at", 75, 180)
+CreateConVar("randomat_paranoidyogscast_timer_min", 15, FCVAR_NONE, "The minimum time before the sound should play", 1, 120)
+CreateConVar("randomat_paranoidyogscast_timer_max", 30, FCVAR_NONE, "The maximum time before the sound should play", 1, 120)
+CreateConVar("randomat_paranoidyogscast_volume", 125, FCVAR_NONE, "The volume the sound should play at", 75, 180)
 
 local BEN = "76561198005702755"
 local DUNCAN = "76561197989857092"
